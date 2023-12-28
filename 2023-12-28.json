@@ -1,0 +1,26 @@
+{
+  "name": "Earl Glover",
+  "age": 18,
+  "address": {
+    "street": "Hipmof Way",
+    "city": "Inohaver",
+    "state": "DC",
+    "zip": "85894"
+  },
+  "contact": {
+    "phone": "(567) 949-1672",
+    "servicePhone": "800711473"
+  },
+  "birthday": "1970-12-12T06:00:33.156Z",
+  "ip": "164.166.209.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Hopdudid mudpuda duh kafcagir kitasop carci keki enaw kagup judu tem imaehjaf paroobi. Herzuper hahacsot ulura ziw navru do kasnu eljegmos duav wizbamvop ga damoiru. Gicij veflorov emfi ki dur esukel daeb ce fephofer ih sawewom jofigmez jad zamug soseves.",
+    "bio": "Buehi rahdeis obi copnu vor jemrob ha mecpog bokag genaw mumu cezokem kudvoripe zolha hu. Zin cordevil not aromo murudomo can fuf idwugut lanuima gu si awo ju selhat tuj. Sis usahawa apnu ci siloncim an fazuf norab nej lewhumide kueb cumohbaz hinsot figsup juho. Zeciw muk iwi tupa cu fojgiumi huflezkam keshobe oza nut ukhi uforuf fafud. Katojo ozizi si ter zidik pijtake letitden wot muv imni emu sowjuz laun."
+  },
+  "apiKey": "f781b9b534e25a00e10bdb9c1e492c415edd08265ae30f0dbfaa903b2633fcf0",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
