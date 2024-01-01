@@ -1,0 +1,26 @@
+{
+  "name": "John Hanson",
+  "age": 19,
+  "address": {
+    "street": "Jafi Highway",
+    "city": "Nunebap",
+    "state": "MT",
+    "zip": "61005"
+  },
+  "contact": {
+    "phone": "(855) 288-4368",
+    "servicePhone": "800273399"
+  },
+  "birthday": "1983-12-05T12:42:49.598Z",
+  "ip": "66.206.191.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Caed tuwfidut ze bembesek mi mupo wa do vip im fumekuw gem mitjonu guvpi pim ajaweno ihnop dizuaho. Imsuwhul gic rasmargag boladjod kafovzag jozmib jim egaweudi tumuc rep jirsaec eru al. Ew do fip wemwi iti du buipe juktejso lugecvu cituh ce ni metimmuw meb titazji.",
+    "bio": "Itu ker fod mif uta wodivek ilgikip kubapimo ket no gu umu hozlag arihegi. Hoj fu setugiwas rab ilpuk vuuk cep bakfoh mukici ciih mesnez sudepo af fikomcu wih leh. Bonazawu konim jutom runhecit go dilut rug dom zelvudud cavu wuji pid sesfivcuj. Gocojma vojseuh filni porov kafu boghitle tumi boz va ju tevehag lagubesu oji vazehwis kinje."
+  },
+  "apiKey": "813030b67c2bbc70a0c0f878e8e673c899ec7af9c7607d91f8be09f6409c6364",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
