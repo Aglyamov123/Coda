@@ -1,0 +1,26 @@
+{
+  "name": "Lois Henry",
+  "age": 61,
+  "address": {
+    "street": "Ebajo Place",
+    "city": "Giltugi",
+    "state": "NH",
+    "zip": "24075"
+  },
+  "contact": {
+    "phone": "(358) 559-1914",
+    "servicePhone": "800391621"
+  },
+  "birthday": "2002-07-18T02:23:19.940Z",
+  "ip": "93.107.245.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta bo nezorric tiruf dinsanjum soj mib enu fidec otveos fo mar pobatvov fi nimlo. Inatedfu evli paof va sop ubu uwo elamotsim zacosi le puw abu wep. Duwa barot mil julbuz sewvin aca mujmoh rubog ehipepup kujlil bu ace gun ik batibeh ow miharbo lopliaji.",
+    "bio": "Gov gis hele je sejacim lo bowwe li heocful jokiwo luju fal kehzi. Cipolo lav raajho jo git judij gorireca tu luvriro dapiwavo rijsig inarim osfawzi mego hafo wojis tu. Lerpu odloeka eb ra ikopun laho jop vipojipu tijla go noju pu fec. Uc ved jogko fujipe hu vovni jef lowcac ranuak os fogfuk dana ovu agu ri zeto ucsempum. Lew pofig mole rislumhu jozuj ipu caju top vuvozsij ovzembe suwik mektu dunupar. Vueppa leg fuafgu fu jecras vuj veatuira ohamaguf ko firpi ja foelfo codef sewefagu iv riitu awnug."
+  },
+  "apiKey": "5d33aeba297ffb81b58e1a1e9c4d8b8709eb73521c820a6082deb7bbcfe18e96",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
