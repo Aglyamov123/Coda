@@ -1,0 +1,26 @@
+{
+  "name": "Jeanette Hunter",
+  "age": 55,
+  "address": {
+    "street": "Rubi Way",
+    "city": "Olewudu",
+    "state": "MA",
+    "zip": "08879"
+  },
+  "contact": {
+    "phone": "(973) 692-9637",
+    "servicePhone": "800547217"
+  },
+  "birthday": "1980-02-15T01:07:57.360Z",
+  "ip": "64.68.113.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu zazoc og cekso fowa zo mowwuvcu wi id lumpemret gaus ofa da oporini niowi mamlum. Alipuba ajuzuken toj livatci agu sanuwi naed baklew pewholi rujib wi laha. Puj godilazuh irweew givtas guf ofuzede tahref pi jifo suldobew fiiziesu zetoega kovofwo cu. Zed fuwog milpidedi lehugefu robo ergob iwacop pegusa girganzes hojzo irwu ila.",
+    "bio": "Wuj wiuca dozbamov azakiwhi suhosno tusoze nuoni finet rajfizale ecedehelu da fon. Halohi ve lesom bukworgah nurnafruz ega voresdew dihlablo zoc ebo emiigo bivuc luneras ba dur wiwuso jorbifup. Umeipni ogaguek dekzebiv ku fiari torebor feljoir nug hadozem ji revav pomekwag vilo jevupeh."
+  },
+  "apiKey": "58a3f6581e37393cb1f763b7acb828a8aa415759e95801d82ea51e1350e86717",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
