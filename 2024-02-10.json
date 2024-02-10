@@ -1,0 +1,26 @@
+{
+  "name": "Sean Paul",
+  "age": 47,
+  "address": {
+    "street": "Vesrah Trail",
+    "city": "Zesuwaz",
+    "state": "AZ",
+    "zip": "41982"
+  },
+  "contact": {
+    "phone": "(582) 662-3209",
+    "servicePhone": "800494881"
+  },
+  "birthday": "2003-09-02T04:36:37.250Z",
+  "ip": "122.155.125.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Wugew hofi wursid ohu zurija cek lu keihe vecuso de culra vuzaho fefne tecuz lik begad se. Miskubu anrap akuniug vufid sarfehcak za epla bovhe borzef ko jive orwag zu itega mugbod obnu. Dehec ekotocaf govetde joleftat cu ezbokuwa rocwabuj voj oz piflow rifdiuso ti.",
+    "bio": "Bigus lanfewceg at nebim zanul voknop ecosmi bontomi se uhoab rajce warev gagduj canene pebusru wumas. Kuv puvemdi fasgaj uwi jip odutabtok hiev pelju mesip ubo wotaog boga suw vi tom le zuzuchu. Ma ve ilosac kapkedu og ik itoelibu demkiji vifjot utaesze on wuwzim newzu li. Gafharbi loepejul un ti verijotu nupbas ku ci bumolut usinri omahup hic zevgop ozpohuj leze todho lu vabaci. Dog pupu hazma teiporo sodla naiz ut nucobeta imove hoajebuw bu zalalas dagzoeri tosikle. Laaheti lekan si ehpaki seapoej gud noje unliipa ipemompa faici buvdof avabeb em vu logod sepkez."
+  },
+  "apiKey": "a8bbf29f4edcffd6f386bf4697b2ad0488cc48650c2203626d5e76b2f32ed0f5",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
