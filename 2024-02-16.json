@@ -1,0 +1,26 @@
+{
+  "name": "George Drake",
+  "age": 42,
+  "address": {
+    "street": "Retul Loop",
+    "city": "Askufa",
+    "state": "MO",
+    "zip": "95739"
+  },
+  "contact": {
+    "phone": "(264) 665-4998",
+    "servicePhone": "800239866"
+  },
+  "birthday": "1991-02-06T03:33:26.476Z",
+  "ip": "32.28.62.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Ped utbud ebhufwah ge robcar kitdor codjezzeh covibilah cehupzo sib hojere tek bu duhhelvev enri ow iruorhuc. Vonka nijog petos pajcawti rukiw ho boklij ki juugha jizu koohegus por. Uhe gesva sozremem ane sievu cew tori in belaso loaj da ivpunmob opdapan lu zi hisucfu. Vah wiebbel ponivuk tere zuzet odminom wes we gaisekab fehcewher li fe be udpar vajep.",
+    "bio": "Jopij sev dakhah doopdok ra mo izfof kosapjo eza jer gegtaphur dipellid low ekofej sagwulbe vennoj jap roj. Actodrur tupuvu amfuof ci li ki mo war cunelezu ca sivsuk viwepe osu zip ino pu huvsupamo pi. Gotvur mig wu upo rabe basla obutiva zemaj nah wim ipapisus ovotetiti helas cadus kup he agavi."
+  },
+  "apiKey": "7320f2129dc5296fa3ffd2b0b5b95fdc065a4f0d222e9a115fd6ae7dcafe166c",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
