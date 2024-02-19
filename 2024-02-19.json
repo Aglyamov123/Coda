@@ -1,0 +1,26 @@
+{
+  "name": "Brian Holmes",
+  "age": 28,
+  "address": {
+    "street": "Sezda Street",
+    "city": "Ilvavi",
+    "state": "VA",
+    "zip": "91029"
+  },
+  "contact": {
+    "phone": "(821) 432-4267",
+    "servicePhone": "800973839"
+  },
+  "birthday": "1977-02-05T01:05:23.463Z",
+  "ip": "146.5.3.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufaerma not la ka zakukogi ewo makag ev nafkul jupeccib uhowih rurwo tabu. Mowe hizuthi vavwo nitli depi eru kejunag vezmuv wab nekotalu lewomuji guw heb wargauhe. Silwu retapa moj nor labsanat meahu sieroci ervu uf po hubom ka wozju. Lod tiko esgo og gulmu hifozaawi wucavku homowup cohelro akhel eta zuk wazihiro kaitika ozgo jabisuh. Covlaw ubuso nud salilu gigadac vishac rob emdiril ipho sofnam ozuleba ta atawu. Ake res lufuh dan apa paj wourabu jug ofujorob zip fec do.",
+    "bio": "Livuwat neoriso bupeg re aki hu lotsulak ped joh rudhid gonsig ke. Wilrepet roap rusogij gidaz luj sa vuwcuc nu nil ge wofafefu tujarhe. Subotomor ju urubalhif kopdu zi linpi gakirvuf lube moscap ihuudra bok lam. Notuda vozapa merze lohrog atlavej konhuk udafajze iha ja saloz hurjed roscahef nakozo unvuhu le opi dor bub. Boruwe tive monok agbo cine er zuvaf kem ifi lorolaja seum sotabwar wujasocir vukozti lorojume."
+  },
+  "apiKey": "b566e1567379e51d01d21f25841723d884572b92c46d0d612e84223b602da634",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
