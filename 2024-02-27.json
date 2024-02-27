@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Stephens",
+  "age": 30,
+  "address": {
+    "street": "Idawe Heights",
+    "city": "Moefheb",
+    "state": "NJ",
+    "zip": "21439"
+  },
+  "contact": {
+    "phone": "(972) 544-9350",
+    "servicePhone": "800568729"
+  },
+  "birthday": "1964-01-01T07:27:32.180Z",
+  "ip": "194.16.56.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Moh iva upume zagdohonu sus ge tilte itoad vatlulako goso pem zuc ditatoti. Urlib jodetre er ofvat gooltad omiwi zajup nabul lel uklova gud fiv wokro. Ardub zommoun rafgoz sufije wipi ilano li kin wuj upeneg ruzheiwo li som wiheju miuc widos andi.",
+    "bio": "Vevwudwu go laroom ev owonegga okmekid ukanoha jew gajge wo pize kuhugas dakza zirsowus iwzasi awuutfi joavu umi. Sobivo ujfanric nezo vapmelhil wa atvu kigzaoz sa vus wog umimod nirukno kizid vi tawedu gige unacatti ofa. Subkugam to me cone cohmomi za fol gi la bisabro umi gozav ses."
+  },
+  "apiKey": "5d8481d9485c0b3c85e6b4a940ebe7529a5554d5457ed12a7ed41db82852dbf2",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
