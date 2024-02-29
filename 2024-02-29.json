@@ -1,0 +1,26 @@
+{
+  "name": "Luke Keller",
+  "age": 37,
+  "address": {
+    "street": "Cikoge Drive",
+    "city": "Adsuma",
+    "state": "AK",
+    "zip": "78433"
+  },
+  "contact": {
+    "phone": "(941) 713-2341",
+    "servicePhone": "800539437"
+  },
+  "birthday": "1969-08-17T01:20:36.833Z",
+  "ip": "54.58.230.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Fodo mic ho bun dujib hohjogoh je epicegos tumu be vozton tirji icoepi ti. Cudfu fiv ivudo ezfi egebos if nehguzeb doli zupseci wucna rov sogozu fonod pupsit naula piw ume. Ubiwa fihumve sojeb begluhi azu kug fu uslo usa en ena izu uhpat rahajev. Nu mu davfel he ov kimu reon coksagvop ah ara subcu hut voja semigun givveawi.",
+    "bio": "Cupti fadri ru waconut wa civni pizuifu wioh huimo anhida gar de jup ditarma. Jodhu ihzacpu levrekhi rerupus nurhuc tajet fic ogomogvih holu woblolnuz naco imoum futcune. Dometa ujo or bimho sitomaipo ketzabe duzvin lozmeno fuctod ocagu omu sa wofifa kuh. Vasdaje ar eka dehdan ubsujon ajotoka ubuvu co ani gastiw olietbo inakal vuw. Nenop lun zowhari fenib movgoed dazhiaf otieh ki fop fud fa ceppam subafe paupawo sal orukus ogbi. Ihlam buub apokit hali veze poldamu fafhevib lentizwub akcu kebitu vuri il wakzobko zizosuuci epeakedaf wabde iha."
+  },
+  "apiKey": "47b9c4c1f69b5d3164f792c755060437383b6d8a99e4fa8c56d812bc3a8a09b2",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
