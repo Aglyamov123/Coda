@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Lynch",
+  "age": 64,
+  "address": {
+    "street": "Boolu Grove",
+    "city": "Wamsozgo",
+    "state": "TN",
+    "zip": "25958"
+  },
+  "contact": {
+    "phone": "(842) 989-8948",
+    "servicePhone": "800694587"
+  },
+  "birthday": "1992-11-02T05:01:35.173Z",
+  "ip": "81.213.68.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi hulavis eno hejmin vaket midruefe sigsuco ovuceci uzapuzez bikcefhat wu ja bofuku kono ujo wo pufan. Pajasuc wuohwo zeto lo momeb pezasig li ku vi buznabmo kebauj ejzew uweah. Lemtatku pewkucom ifucinus ku gaunaf zutubki tisba wubibaco iwditek upuluak balsukec opudum jiereivi jozsiag vorawehoz.",
+    "bio": "Lales mot jo uhninam jielogac lucoz ufuteetu virmadlu salabac ti mowtehe toc agucur. Dunuzol koragi owju cu cuz borzawif digaez iwohov ona rekor cedhep gefek fiujva gu. Udi mihitba hifrib omdu itubahuti cozewi um cufelme guumbi ugadaj ili viluluz kirud."
+  },
+  "apiKey": "8425b193cbcc088dc82a0da131569f830ba4c1beffe1422b99105709de0be12e",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
