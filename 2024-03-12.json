@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Schultz",
+  "age": 22,
+  "address": {
+    "street": "Hutris Street",
+    "city": "Atkikpi",
+    "state": "VA",
+    "zip": "25378"
+  },
+  "contact": {
+    "phone": "(538) 700-2416",
+    "servicePhone": "800264553"
+  },
+  "birthday": "1960-07-14T10:54:18.150Z",
+  "ip": "12.166.62.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Depvisur rujercet fo saepo sifih keb tuov si lumkiger oviniz vapdo fi hoin. Uf ipca vocup ufcocwec ez am hebjutu sefos we acaha pe cugalru vurca. Wegmawo puk galaj cub ji zaz bev vojuruzi oke vu bazek nanuf zufu uragewsi bikenif. Levivziz imjah gosodatej vuora zibomwi fehizej muhab puvepe re joar ajesibit ow. Hellalap geisaepo gijuvdac vo ta wu ze duvadug icwingih zomzad bisir pefri zag.",
+    "bio": "Finu ufemik ihji cavib ta amoko uliju falbemur sav kufoj picmo vo jurfoba ja cuf foveso. Orwis sidnidwuj legra cufuhlo inkiv busada zotwo ohceja rom gunoko ajive but fu vokko vunutezu. Tepti wazatzoz ka oj ki fedsal mo aviwenbah dud sutaf vubu zet hedonjuz osaluchi lijrom. Uruennul nejuhez bimmucu nofo gi ji jiho gurum zi rezo ubpudwem hij ed ij. Ujubaw cupra usa sican ete owuaju pujdako wawbu borneisi ikjah jalotku vig."
+  },
+  "apiKey": "af358ce242bfb9534a5b145133dd66233e6c588167814baa7a0a4e34bad72a34",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
