@@ -1,0 +1,26 @@
+{
+  "name": "Todd Scott",
+  "age": 23,
+  "address": {
+    "street": "Pekna Turnpike",
+    "city": "Tatukcoj",
+    "state": "CT",
+    "zip": "56745"
+  },
+  "contact": {
+    "phone": "(722) 595-7329",
+    "servicePhone": "800855545"
+  },
+  "birthday": "1991-12-02T03:21:30.888Z",
+  "ip": "9.16.22.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Mil higku diris fiwundiv ogpil ediopi deirokup naka kise pez vavet azuz zasinko gek morho towag. Joveda bobi itreraf rupeta etpeca zow kaligice lilek gevkuj tevaraz zefefwo ujeol murihhuw zigne biz. Ugal ra wu nirpowa senbonav kejdeknin ti uwzak aku illob gu emzu ibibew.",
+    "bio": "Joto ziwpiznu boli arzaduw ipeujizur awofa puka una cepdar jo hohtov kabakvu wawwir tibis nucnuffu. Lu gaj oka foc wi un mezovko luocezu vinavuke ju vehij wec do lodasaaza zuh bom. Kasihog bimodjup tif pebubam wap fo ni topapa fuzfuhuh elavur gi wadaom tu vuitove sapeul otton zav secame. Utoajo uvupej fu bag kennihi fan nudim he ukwur nosar aroec omatiga virji sikmoz mebuzari. Mim deso vico sevawer talis ne mifuka nitehta ju zen beek obo tutozuh mehtunpa gohsimej cekme ba adimifaj. Juj tebopaw gezi ute momazwi buviga tapcorov dab bec cun gapbuccu zocrip."
+  },
+  "apiKey": "ff55e78ef4f45bbe778bfdc880610808bcfcef2f809652493b57885cb8a685b5",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
