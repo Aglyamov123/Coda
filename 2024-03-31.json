@@ -1,0 +1,26 @@
+{
+  "name": "Alex Hudson",
+  "age": 33,
+  "address": {
+    "street": "Kugeg Point",
+    "city": "Iribucdus",
+    "state": "MO",
+    "zip": "40895"
+  },
+  "contact": {
+    "phone": "(651) 641-2896",
+    "servicePhone": "800978559"
+  },
+  "birthday": "1972-09-03T04:01:27.370Z",
+  "ip": "3.166.209.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Gudtof lejew movwas kimvuvip ida faniw no enuvif coce aga emedi otoos ve bamum bi ikfozo. We ricaz wowze zotvig ab kelvadur giesmo kigire wolzajot sev ase orarovje sa socolu awevebrem. Mik rom mobu ku luwemuzi bi pin po daveh madzup iguhuh vara jagitis ehupkuz lufku wauca no sicve. Anu utnuke tomheoma jajecwo umfa dagwebot og arati baupsih sudiji al loru ni. Gu cuimbij apokoiki fe na kehiiv zislosi kabog wejcap vuv fiped kovfizce.",
+    "bio": "Etu itsep zalad kapapi nuzap bertu je lamgigib ru meit vuwjuhre jebzomuke zed coztoghu. Ju waffezez iv ifir ti ba ad ranuvugud fil ceru ranajen nidgi sibajco. Gejmoku papecla ru fi uhfi huh awajo biuko disden azenazcej dero wagosel le fi nac mavgu."
+  },
+  "apiKey": "14313c3d87477067c1f4c8fe5d9158dede019483dd5ae9a2c059937f3523dd97",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
