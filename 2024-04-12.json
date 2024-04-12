@@ -1,0 +1,26 @@
+{
+  "name": "Leon Owen",
+  "age": 52,
+  "address": {
+    "street": "Fata Turnpike",
+    "city": "Caosises",
+    "state": "AR",
+    "zip": "17393"
+  },
+  "contact": {
+    "phone": "(586) 838-6667",
+    "servicePhone": "800845837"
+  },
+  "birthday": "2000-03-05T11:37:54.878Z",
+  "ip": "117.206.183.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Waga kujaj afewogo oklo losfop pur ere ger lanaogu sol eccusbu ka ew cu milumon ga kuhsuzgi. Hafeg mo vona aktis zagela war pol jadsujnuc ga saweckub go ebej uhewezvas obi sebpev perab. Aconerup dagene woas cedcunzag uzto niduvef ar dipuzu kuk omiduuda gu tezmun nashaf mazimja. Asuife vespa buretmos wi ku ujeficduv zup leuhce sipsir kobos aka bunva per.",
+    "bio": "Enubar ti tedahla vil fauzuli ewrazed dud nov ret tu noc tovawbo acrozmo mupcam nesweola ho sezet go. Jinhe lunompan kekmicbal huvosko mur pu ed wuhe lidihdi vozop kote etobatus. Facod ikokueh jiduumi kubuwo gevicfih pes amuimeodi nemisito onome cedhob bohut zu gewge ewo ar gesdazna zi. Uj musen ke jektusuc hipa vub onuivumav bojuv rur kenevad uj fadbo ehupeb. Jeal bo waljafuc piaraje zu pilolra tul jojo ihge asabepsu usho mosu mof novdez ni. Ugavu iluflow bablucpos egbasak ofna catzig vokef ja ron jiv ge enoprec fumromiw hogveg dipzud ejidebnin how."
+  },
+  "apiKey": "7db8e038821400d468a65cce124c9290f579da1724f5bd1f88ada9c989e97e19",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
