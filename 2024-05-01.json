@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Dunn",
+  "age": 26,
+  "address": {
+    "street": "Junitu Place",
+    "city": "Difewe",
+    "state": "NM",
+    "zip": "07319"
+  },
+  "contact": {
+    "phone": "(606) 669-9516",
+    "servicePhone": "800775574"
+  },
+  "birthday": "1959-01-30T10:16:44.106Z",
+  "ip": "151.57.210.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Be noko vu secaz vuosa fatfaz tu zem hibpu sa lihhas jujat ne. Ozur riskerop ena fonofu fersu wez cej natpiko egkep muka ragwe je wesijko zuteov ovipit. Ugejalij nujlakfe tobel faab kagjupar kifza pit digbova jafeba gojaw mah oroagi er. Pu fegme zejdi davnejoje idtaaf aba wojwuglo fopome mo gog nu ajros ajilom.",
+    "bio": "Radu uposa lood eppiz fi jaftithi dubav re ri icovono zupgucbec hen du. Fagih vismun povzechob ewe kozihhi la hukdat eduzuse za kojead dievaban ceb zaj eba gac. Adnoh dudjumuj cekugos mu idlaruh geb ba puculo tu huzejnag po vovo. Araha kos fegminar veako ovarihzic ep epotez vi hepsefe joti iciragvus jegte oklof lolgew ju vavapup ora roduwuri."
+  },
+  "apiKey": "ead8704f6f4b5df8dec9f8f644b3c1956c409be4fcfda549f0f4016b836dc0e1",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
