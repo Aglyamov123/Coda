@@ -1,0 +1,26 @@
+{
+  "name": "Jane Fernandez",
+  "age": 48,
+  "address": {
+    "street": "Enolaw Heights",
+    "city": "Ugovigisu",
+    "state": "MO",
+    "zip": "07932"
+  },
+  "contact": {
+    "phone": "(246) 636-3766",
+    "servicePhone": "800138687"
+  },
+  "birthday": "1981-04-12T11:31:31.072Z",
+  "ip": "190.206.219.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Pam pu laraok jozran ak jaju ihsol abhomu nu jefan be me haj be ofkug vaw distotfuk. Pejeaf magrilu kagnopmo me fewko viz feccaeho ke vofava bace cuvripazo mupoho ibimafe goji. Zicuwola di rij fugiroun jamaftus tutper esfu ha jamnufa ninki janrefopa usapuwi gi gucib vir sasvut. Kehna welegi vapanre ruzdug owuguwew ul subevel kew gudsad dofu cako aw.",
+    "bio": "Zurueze fal tibatul ne ewunud emi rokcuddob muzocba gomwug hezkafgi merurvi bezoob jofufmac. Ric av log rodeke sehvo ej wisate turohde oko jat kohdo lok efra. Papuh an wame gud wus ja dunoze vurcohuf vuropag ukuhiwur huha jemfe biho salhieke caafvas."
+  },
+  "apiKey": "788540a4545f1fa23f801e45d9f23cb6fe9e61868ffffb2b7d928801fca0ee44",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
