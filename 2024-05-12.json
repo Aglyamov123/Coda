@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Wilkins",
+  "age": 24,
+  "address": {
+    "street": "Susi Manor",
+    "city": "Jiidivi",
+    "state": "DE",
+    "zip": "49418"
+  },
+  "contact": {
+    "phone": "(736) 361-5653",
+    "servicePhone": "800871837"
+  },
+  "birthday": "1964-02-07T03:18:37.560Z",
+  "ip": "143.58.125.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibfag elu apiju uzacuncuc zo umdim ofledha osu vi ceametu kofvize vuce covif. Rol libadnov imziw guwsedat fohodet sevfif nornima moc kaopoge opoker vufkah ta. Cepulcil web je sarauw oje vi bisubeko nuces bur iwsokuz subuf igselji lasum.",
+    "bio": "Taud zel wapefi jip guiru ler dicmuce haz jiptes doga seitihoz regsajfop gevbag do fo. Nopi kavuf uburupmi cacif pifbawsab dikof wersibav ovoreggap wi tesid vicobgah to juke. Ulkacus jagnuv ho vatfatida zosofu mozeh robpi giwim memokod vinlavut cewi nufdove damuk busa tibi."
+  },
+  "apiKey": "97e4c1e50a4bc8fc3113661386889a9071706f9b38e4a5133e1f3ea0f05d9514",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
