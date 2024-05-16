@@ -1,0 +1,26 @@
+{
+  "name": "Max Cannon",
+  "age": 35,
+  "address": {
+    "street": "Dopah View",
+    "city": "Naltinen",
+    "state": "NH",
+    "zip": "45903"
+  },
+  "contact": {
+    "phone": "(339) 798-1972",
+    "servicePhone": "800655542"
+  },
+  "birthday": "1996-06-05T07:24:00.782Z",
+  "ip": "208.64.76.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Da wi sih onoat epaeb wawu lan ocacufur rieheov noepa kuc rohmopegu pe. Og lolcehi guzfu zababtac ogva ifjab zu pi hafgojuf metsak hanufkah kapbid johoh. Saize vir wuw terale humo gowa kig nunuci ipo sadvuzef ihduso wulwo sapono iwadeto micieg. Ig keg nidih ti havo diufupar dib piv uktib gut de nipoj.",
+    "bio": "Aka pa ije dud gi ebezi vusifa edeokolo biz et eno petzore paruvem se idi estezir. Hior irkanaf laitiwak tacu di vopte tuuto arfesew fehazob gula nolawpi rocuh mab picwunno ruz. Davusuod li mibcumca witri lipwe junnela mupim be du unafupik iho gafu cikbe bietuiga sivod fe."
+  },
+  "apiKey": "e25e1ef03147af9bdb3c870948d287fa111dc370aa8f1fdcb7380738c29f1f7e",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
