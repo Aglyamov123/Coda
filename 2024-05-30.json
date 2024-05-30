@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Guzman",
+  "age": 58,
+  "address": {
+    "street": "Inuuj Pass",
+    "city": "Iclika",
+    "state": "GA",
+    "zip": "36061"
+  },
+  "contact": {
+    "phone": "(341) 310-9162",
+    "servicePhone": "800848617"
+  },
+  "birthday": "1984-07-30T05:42:13.930Z",
+  "ip": "19.129.156.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Vaz nib atocaf wuizuri cohin fup ron gerek faulewoj vujuli imudepef rawaptew. Hu wec zu oraoge pac warvut izlomo na benwehtoc nuuku washito oma gehapuaba. Bun hognuple owado naup ci fojhe roj ri rusojlag bizip cedto jevaftof pofrez ewtumak ga kufipic.",
+    "bio": "Zuafa ted ejumjep vodcetef hiugje se popus itgo lalahe ipiapatoc reme hoafake cuwtifuc no viogeuji lalobehis. Haigedu godbifep su logiwfut jetoj leco to ocieze jenuzazo nicil pokasu pegaz oraak ma emuake. Na adi akbuh aceidude coh dosiwe wokum cozhoggof tocowi mereneg wuerati apiraw jujube."
+  },
+  "apiKey": "973658a0e8458af7f64f22873925580c6ee8cbb221ca689004c7170de9bc1450",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
