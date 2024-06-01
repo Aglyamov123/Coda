@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Poole",
+  "age": 56,
+  "address": {
+    "street": "Pejha Park",
+    "city": "Coowulew",
+    "state": "VT",
+    "zip": "95672"
+  },
+  "contact": {
+    "phone": "(208) 228-3097",
+    "servicePhone": "800274149"
+  },
+  "birthday": "1966-06-20T12:58:52.815Z",
+  "ip": "73.150.139.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Wel obopo vegegud go kitlo moka logujro nun laz ha vuciib nun wihira civtog bag hoabsuc vimik. Duofecug kad up so zijigle bo ubijfav nipguk vupvomele zo ifla noci ru figvimu jaw. Soazo hifwoped sulozi hevhurga cojina hil ulawevze cilgodo lunobe furpik hag meg vige lakowus fasuj.",
+    "bio": "Pes za uzumewzu wetlojo gislabis tuema fi hahfa fovac rur tew fabgibu fepzusu joti usuwado. Copvu ro iji vibidem za artocja efsapuc jundu sasif vensaz poj guzeawi repedifi. Duiji zi va asu wahsa wece ca be vonaflad vag atasote es ej ozjod uhatalsu zajuliwa."
+  },
+  "apiKey": "5b457e89776c6b7d81b169d63b51ff9843530e944546fd3bc9aee81f3b325930",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
