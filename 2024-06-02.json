@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Nguyen",
+  "age": 33,
+  "address": {
+    "street": "Rombem Path",
+    "city": "Leetimu",
+    "state": "TN",
+    "zip": "52790"
+  },
+  "contact": {
+    "phone": "(945) 572-8761",
+    "servicePhone": "800395224"
+  },
+  "birthday": "1987-07-20T10:54:38.634Z",
+  "ip": "79.18.218.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Pojzip vub zodco hep maj va din in achedeh pa kagcuspo bu fawaf zib keset ersu. Pab tetiuv dimbi nonjuk bojjuw azoigo luf si laj ju rircebaz vewreosa hi ka capto fup je fodum. Wubibomu nijmaero mojhehu ti uzi lesuzga fudajo wi ig vuhrebor mihpecfec zifak.",
+    "bio": "Veulocar vu targeg he kem pamep lezodiz seb cituba isa homud li. Arom edevas wisic sasojsem pa wim ta tidabi pe talcim bimamir jivsow. Od uptizag zufu gigze wiwri rahe ujviev ecozo mumib luddolik lipmi ko zadci ral hep. Hotiku ahigaz lec ji forkuida siozi hiat la pu enami bemmu zoiga zamrat dede zuglapbi ecoezusi le. Dafna mimadkak rac hevawbe ivuj dosuk comesig jat tijsoto likomaf copuciaku gincosi zarec jigitlij. Zi kaj nalagop ag agifi codwih gutwu vukvopeh ho jovwocla zo fejupag mijemhi ih ecakivo wo. Usluun nut kosudzu uvkavut bulo cakhi uksiw hicuvugi ju uvopewu bodof uvoodu jo vabju."
+  },
+  "apiKey": "d3b4e4b962bf76993e39a27fe48723f84bed9f6a0a184daab2a0eb4f322372e4",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
