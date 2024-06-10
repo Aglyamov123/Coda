@@ -1,0 +1,26 @@
+{
+  "name": "Angel Morris",
+  "age": 64,
+  "address": {
+    "street": "Bigu Loop",
+    "city": "Fonazi",
+    "state": "CT",
+    "zip": "95846"
+  },
+  "contact": {
+    "phone": "(329) 353-7917",
+    "servicePhone": "800161158"
+  },
+  "birthday": "1974-01-20T10:32:45.018Z",
+  "ip": "182.25.86.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceb zepadsu taf ibalejac ud jeg zopemrus viej go ciw ojo hiidnat ijeg ucevmic kolo tudi. Wutgo fakuw em fak agoh ivuje vu agi timezu zezaru vofo kopofo piv jatbecmit av. Ha ma mamucoga vi sipukzo hobjudled tidugin tu marwavce nuluflog vikosam hetpoasa cu tuhtecoc.",
+    "bio": "Cicub ri akidufgu defka olmelon ewiakutu panbeur iv ufo lubit avawel uvokaova fulhe inwo ke jokib mijirhu. Im wugje za teovfu ajugna owa luhmucvu okuaz mupnug gor kuwit la hez zamcut luibde rukifehe lubesbuh. Buk nifluwul sat uj afuho zuce it bos loni hazepo awojun ahi rabdakwuc pu pa. Tica fisheg colacoilu sul burho oki geibu huc un zowrob ulegire zijnud jonipec amafug tovonpag."
+  },
+  "apiKey": "fe515bedfd1d999200e6e52bdb3ac84b5306d3592a78c28f2260eded5b3d77b0",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
