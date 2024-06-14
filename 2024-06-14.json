@@ -1,0 +1,26 @@
+{
+  "name": "Don Lawrence",
+  "age": 43,
+  "address": {
+    "street": "Gebvo Way",
+    "city": "Nuvlonja",
+    "state": "NJ",
+    "zip": "56938"
+  },
+  "contact": {
+    "phone": "(240) 281-9810",
+    "servicePhone": "800971422"
+  },
+  "birthday": "1987-01-01T10:45:48.590Z",
+  "ip": "70.24.70.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Hev zelboab da ono ridawat gavjuc hukemo pibnipka sor ohe culisuboh foeh vucu igud gur. Fimni ugeiv ba gag com ukti cartu jim otle ko deges nedje botpu. Zu ramipede abti ku goj worapwuh gatzig uko elkobu oti lur raot de. Gap bu vus ebibo wakiknam honaz lope mujo fowco gone jedzikuk ene va fetpu va. Mihul acuokifi wubop fibu teovwu bik fiwraume mugek deih lo hufrenfon tulmekata me kowhup. Tekzi jawtujup ujrefup nihduvemu itvi ada dovcijo uceko tuzfod ejacut bognesbic tizzi.",
+    "bio": "Hemenav lahib wad fohu wocpupga wopetup hionco re zojruvve nenhiceh netav fubo ihto afarod. Kuwezi obubeb libpoma fe ki nanfurwad he fajuzi titmi libroc ire zemonas awonew viwviwo pow. Suk roveto ide pit rujisisam lalfa agi ziswo fiiga azi cires jekmabod is limluhruw."
+  },
+  "apiKey": "7af575e1e8886d9dace7371b8ca86db229a873fba4269f8b18ca7d74b1d43de8",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
