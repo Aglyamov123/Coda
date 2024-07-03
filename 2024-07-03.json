@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Berry",
+  "age": 42,
+  "address": {
+    "street": "Vuva Circle",
+    "city": "Mopaaza",
+    "state": "DC",
+    "zip": "75747"
+  },
+  "contact": {
+    "phone": "(371) 215-4660",
+    "servicePhone": "800999353"
+  },
+  "birthday": "2003-04-05T11:02:23.232Z",
+  "ip": "199.252.215.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Pezlocal hogotzal defi waocuce inno jo teriim epaih hirlow bi ob av. Ferzam loj kad ceehlef gebjojma tekcogcet pugeji gon lupfa revatbe ivi cieh. Neuni aktu ca kilbu dep buzroen kujmeda dubpe mo toven lanbid weeti hup katuwud. Obfap rop so gahukiura roehur besodmu kitel nod oti bogfib tocu okupa fozus ijies furinzoj petah. Di lib sece niwro duz otfa jipfakdi mo cajo mib hepa iboima wevah wu.",
+    "bio": "Howazap mewze wumelsut dasi nerdi vico anpufade sonokmu apu gutmapa cojom hob otafiep jawfajiw seco obanu. Zazatve hegohi nutjaz zofke udikigfik kup ko wi ravpekro toiruzes ipievju hopbo uw tefamfek varoso. Jieruhek cos no jopuduw vubis cuw pur fasafez labfak kuneali tiwawriz pebsi ukep el rur ocdikif. Reguis jolmesce popwejaf avfab beh ci us za zedkubut itkad aca masomfu awu. Ube ema benlicgu unu cim fif hakki otmon anva oduvihken kevo emewepha."
+  },
+  "apiKey": "4f1a482da0038bdbd6351bd6ea0934426c00d5b15fcc461421da625bb9e0ded4",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
