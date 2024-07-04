@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Pope",
+  "age": 21,
+  "address": {
+    "street": "Sathas Path",
+    "city": "Gehumasu",
+    "state": "VT",
+    "zip": "47033"
+  },
+  "contact": {
+    "phone": "(802) 677-5622",
+    "servicePhone": "800295331"
+  },
+  "birthday": "1974-03-22T06:27:55.726Z",
+  "ip": "119.131.220.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Wermendir ha faodoke owanag duvga cutwofrag wekdugvo lecasir rig ciwuhne cojufaf bimaj razriag remuwror man. Rawup legfijas vojjewkij obkegob vadfinewo pis cirazi umugikhu pa fustes wuw dithuz rulut honcumrun gacibum pap buvi oremelop. Sizoadi vidan gastit si ekaatnuj as emozumufi olo erebov hu ijoka ihevido omolomo covho. Vosjujren niv gumtofesa werju ol heruldem gulwezru ednow nolanip rovcukaw eciteva uv lofsueta hegemrap gihme ma buuvnu owozu. Hi hipgimnih gopa nobawhu gipgiv ditzuoli ma vinzute poputa de zovojlu vukukzod.",
+    "bio": "Talcelsu apje puicme zov folfa pun ridebi ub posu udejiz tuca epo catdodag. Riuje dulmecahi cuwife vitekul sukfir doppefrog sasruhaz sehbiozo usiza duwpok ehsuwedo nighom mivmedde nefnev je jedat. Fethapem ugowoed ibonuv dirukbuh nor suhmo vawo soaju wu zujumuse kog gufa uziofniv notekmu guv."
+  },
+  "apiKey": "b3a81f1cb25887a4aa752889e9fad44185f0eb4d7395a8f45009bf8d4ba8faa9",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
