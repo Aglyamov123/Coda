@@ -1,0 +1,26 @@
+{
+  "name": "Austin Holland",
+  "age": 46,
+  "address": {
+    "street": "Gowaz Road",
+    "city": "Owbano",
+    "state": "GA",
+    "zip": "24526"
+  },
+  "contact": {
+    "phone": "(889) 881-4657",
+    "servicePhone": "800624799"
+  },
+  "birthday": "1969-01-16T03:18:10.761Z",
+  "ip": "101.206.93.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Webaz jim nedcim lef wovubo favmotli ute gebwu upadog rijbecmu iha lunecoh fajdelcoh fuh notac covti. Ukojeb jomi aw odpeb od rug izwomvi fezeef zapetov lohubu oppi fo jumepibi puh eszuva zojafba lezpuz. Koofjok utonilzo vohuvho golu hom nu degop no neh zitwag rewlaevi udubivves hesvu ikice. Wofij hopeju mosu viherfi sahgapej tikedev atsoke daikji mib favadoek bukbazid leno jopamfe ivwojko cebe ojsevob. Vagcifwol ukisoonu izbam resihip luibude le vojgop deb pawumha du lov haci polov orhe ge justades aviike fufgot.",
+    "bio": "Pomtalga rezukumi ti iledig bajof as be da usa ikirozuwu mevu sabmozin kepatuman duukipu ladad aza lolbe loz. Haco fuz zobulso zi mihrepuc ruhageh pik zador nalles ferwepem ga tusoclur veweku saijaner mos bes. Irafup dukgub wa moloru cagejloh jucevotov vongihoju gig motte soleb lijina pet ganiftip losav."
+  },
+  "apiKey": "59ff7a1acf49f2ec1c82eb27518c79bcc564b0604cc7d8020d2a1e6ab2439681",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
