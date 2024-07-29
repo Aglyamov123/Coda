@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Abbott",
+  "age": 35,
+  "address": {
+    "street": "Niiv Parkway",
+    "city": "Ikvimlo",
+    "state": "MO",
+    "zip": "06629"
+  },
+  "contact": {
+    "phone": "(724) 388-1992",
+    "servicePhone": "800874449"
+  },
+  "birthday": "2003-12-05T06:28:58.506Z",
+  "ip": "76.203.247.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Foofuse arerif ar ela avhi jilfawe ukve vu si iz idim wuha. Wokus kuhcatbes oci izoecja gupza socu vog toenu mezcakcam fopoze bazakasa cuk fa. Jezah rof medem gamitgi hisetper upazalcob vidgoamu pazra tizaat balogvo fu fu iko. Gih es jumni mafuwzid hor cij viojke ve nu rowila rarsamwa zuh vawdomluh ketof cacmozten du enir.",
+    "bio": "Josunuku essuclu meka uki faz ucicekbow vewhaogi honnin umosop uwakosda monjivwug na miz huhop bokifeca. Suug pezaup zacje voer me numawof topus vuj bebuifu uzhe gogoriv potu wekilu sitvukga. Tuf raro cigci ik es mofazbil rotef gulpac enlurup nazi mi fok vufac kejhuc kiluefi nani tac vovekde. Hamoc wadizmuf zo jisisa suniaf daw bef vupiduber fal umolevut robejwil nurfose vo favuew gu. Ejfij nozwo itfu jor zuutois ja teli obaum gavpu sabokvu coal hejkunok rac evo decgif ila ewusoeku."
+  },
+  "apiKey": "91f9c2ddb0559d2dc014cbe46923fcdf6207f7e9daaa344f2610740fc3b0a8d3",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
