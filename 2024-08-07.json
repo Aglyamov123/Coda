@@ -1,0 +1,26 @@
+{
+  "name": "Rosetta Gibson",
+  "age": 42,
+  "address": {
+    "street": "Notur Point",
+    "city": "Vamulmat",
+    "state": "CO",
+    "zip": "42140"
+  },
+  "contact": {
+    "phone": "(441) 925-3969",
+    "servicePhone": "800134547"
+  },
+  "birthday": "1977-05-07T08:26:48.143Z",
+  "ip": "76.79.28.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Hunushe su ka daptev ikled giw hoam edu ihniw kajabsi lug lolaniju givuf. Luh tusniba kizzir ruto nebiwaved fetu mirlog bezro ela tada abri onaptuz. Wuleegi giwelza supmecuf maipu omi nureis gaaki lakichew gizojsan nudu likcu laapa ajpahwe hejgez tavko. Vetougi tiwab duuwe sebce vir azpeb ku kihuf jo ap zirev ma ivpiz av. Ate se dubje me mikemiku kel ul ez zokeh humrej opotuhdas zuwki. Apubzu ofavosne uv goz mosicu oda on zenefuk pu ne fo uw. Cobde op ozpagcip pora ke foat hudju podjos ihgavuw de lomir gevegesad newrifmaz zukun ufte jomtonuc rappakca weh.",
+    "bio": "Mufha jop nutjod ceegise tavtajog po gof imuje umocujnig coviem nojukjo malme. Neuntav ebu celav picgozzo targip oj dak ojlugle tu zalcug lu fujdo pahuj duzbikot. Atjowje bi aco vewubadub nopaglag jebvarmug emido beri jakfa tur jazwi pusonad wonrugzum duj runoc."
+  },
+  "apiKey": "15d16c70735d2180dfc10e1ad6a928439e5970b09ec3e0fa5ca7ad7170d3349f",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
