@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Carr",
+  "age": 18,
+  "address": {
+    "street": "Ofunim Park",
+    "city": "Zozemuw",
+    "state": "OH",
+    "zip": "33209"
+  },
+  "contact": {
+    "phone": "(214) 235-9874",
+    "servicePhone": "800476655"
+  },
+  "birthday": "1989-01-18T08:38:33.118Z",
+  "ip": "179.85.123.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Tolkeza teun rudror kuz ulfozona ekivnof zuci gesnobor vienaveb kifvecmu is jigew puohhat elumoj tokul bemif. Luamiira gig ubziv cov novpi ciwijhen ukufuhed mogiknir juvak ev civinu ufune jizinfun pofokon oslo ojodamowo. Ippon gedvu hirta taklumra maf is foez ziverjo kidu jomih hu ihzazwi wohazuzi isouldoh emtiril.",
+    "bio": "Puis migbu vijlavfas dowovafe pawes eveoli ukmobo bub tudog wopomi jidimve ruj seh duruwufo up ikod. Cinoc tuvehied hezbahe ukanozte ca conuzucu sad acebok todudesa doage pagjo ohko lif. Rafe jilvoebo putispe pahaw elakuwto gauravuk etmubar ojziz badiku ap lav gid pagena vut vojhu jobiri ke gojo."
+  },
+  "apiKey": "2c4cc0cac1ebf244aa2341804efdc3e77051ed1f70ba30f59b654649dd6ffec3",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
