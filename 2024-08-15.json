@@ -1,0 +1,26 @@
+{
+  "name": "Philip Blair",
+  "age": 40,
+  "address": {
+    "street": "Vino Avenue",
+    "city": "Orfobec",
+    "state": "SD",
+    "zip": "60631"
+  },
+  "contact": {
+    "phone": "(938) 730-4701",
+    "servicePhone": "800562762"
+  },
+  "birthday": "2006-06-24T08:56:16.370Z",
+  "ip": "108.245.56.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Pamo tuziwoz jato mih vudwoz guk cutmuzed abaduzfon uruovako pewu po naki wabo faetteh mohoc vifeda acodacep ujeor. Lipve pic po jiobun mo civefo elouhlas ca softasro jumilo vibe beetonu vabeveva. Fit eluecwag maw guj laduzwos poranag dicefpog za uc vesihfo az derbi zam.",
+    "bio": "Jicle ehzih cuveceval vizvijobu rian pedag roc mivaega rewnoen mezomgo garpatu nijirnir pone hufzis rekikesic. Ubuvo dowtelle te cu ginove pug usokipepi gupep id lape bozez buzac woj fen sinemziw. Ogibulu tedowzeb rot witwigo nor nitco ilewido hasewap edumoji hazro abifoka ufobajat leuta wucuh ij hofajlom."
+  },
+  "apiKey": "993843807f7f6f63384e0cd793ad1ced31f535c1fadb9d4f4b8279d252063fb8",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
