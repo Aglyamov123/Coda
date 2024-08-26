@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Fields",
+  "age": 60,
+  "address": {
+    "street": "Fiju Pass",
+    "city": "Bawdediv",
+    "state": "OK",
+    "zip": "02423"
+  },
+  "contact": {
+    "phone": "(662) 665-8871",
+    "servicePhone": "800578623"
+  },
+  "birthday": "1969-11-13T02:48:33.911Z",
+  "ip": "189.140.183.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Peted ale ife ikpim nad ehdule ra jil ludubgam wosrit piwazute piov huv sadan ceruw zucbocve wog usnip. Vassitak saclabam redenra halahfo geper coic vope paciz dolipa catufi du fukidu jaenu. Iru jobdebdit hip telkog pujwogaw mo nefdilca uf evozodob kuokaezi ojkalgik ekaba pecgioj faf gaccutup icros.",
+    "bio": "Foc up rapwilhe di bubmeh tilje er cubuh ra momez rumgu detew ki lalim liw juzeka. Hasu kufzunwum ucedon du mo rel hoduwegu gujfi kegehoav dotikcoc jotignac pawu no go bi sawsoti. Gome ilooz votaf akeruuwe suklepzej boeb wugrug otoli du saujan ow iweweot ocjo saf poge li dizduh himirsa."
+  },
+  "apiKey": "71a24ce362a261811d8b95c5f598b09ab1e90883e100eec6335496b7a4eec60f",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
