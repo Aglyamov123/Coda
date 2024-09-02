@@ -1,0 +1,26 @@
+{
+  "name": "Lena Farmer",
+  "age": 23,
+  "address": {
+    "street": "Ronum Loop",
+    "city": "Ecomgo",
+    "state": "DE",
+    "zip": "56579"
+  },
+  "contact": {
+    "phone": "(419) 901-3129",
+    "servicePhone": "800333115"
+  },
+  "birthday": "1994-02-14T01:40:48.730Z",
+  "ip": "56.89.178.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Noj saw di tetcu dabu esacoh piwif ra daomag ko zed ezkapno givar. Jefomi rema wod maweciv cametij feuzo man zoztup ganril zewul tiusejik zuguhcat jowaf. Cuzamuk ewosebmu bigahso oju zojod gu hi cukezug abuvu movawuh tispuruw abju uhupa am zunuva zus gutrup zup.",
+    "bio": "Tid wilvu se dos bo vob esnugpa ge viwpat cake luhomkin hog. Re vihjergog reheji il kap ab ido apke he hic jeptiv lubjiguti poveeme riz porin. Numwavre za cihipu nook buf wef nakulo hesofuf cowmed ka neki doecoivi is zem ambuj gepogmi. Petre un vuttuzi jecaw iknivo fepep ku lavojde davzuk cofoik ubto le agpa. Cojug onubu ampin sip aloupmad luwedne firnuc epoam losan ahpak aldi fa. Reujwu mopiwuco hidzitma dogem tizi ja wawkumu badva aco cajgap suker gestuz ozipo."
+  },
+  "apiKey": "c228d69e00f90975cc6ef90e4cbafc112987ee5aa1361405156a5101686d58b8",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
