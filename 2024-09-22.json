@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Grant",
+  "age": 64,
+  "address": {
+    "street": "Logeh Grove",
+    "city": "Kiffojtu",
+    "state": "AZ",
+    "zip": "74460"
+  },
+  "contact": {
+    "phone": "(907) 715-3326",
+    "servicePhone": "800946682"
+  },
+  "birthday": "1975-08-22T09:22:56.915Z",
+  "ip": "224.205.75.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe isaji un hiw pil vo jesjood cic vihuklu hosiek botsul cadi duvekuz ri eje. Aja rinetowov hoga cepuzgoz faehubu socegu gef zel ede rasdiku jupcehvod doihi no bad mumaghi. Bir fof minvul ja joawomod walagiwa jawe he feuvaz he zelawi maastu baremle cez zujcerga gumihe supefabec. Hav weinebi udu ki si pemso cica cet tolum eza awutu luzov iw ravum lo. Urofes ina potonfi tehanahu amitobo luwefaze taru vekcujoz haw macuk rehevasu veguspem noniuf da.",
+    "bio": "Ledapjun moga dupo boc po wijadku va nil hadelwot iz en bojuh divluok cek bazuc azcumap ohjindi. Jedneh ricme gekeki uga futibap erukanepu ajco go ki ibkidwu ca da ohvah wumo neh zah wunva. Kanefo tatiw gehu ocu bepsu cirise fusfomos we kalbiktut ve naksuc liz ev. Tes tomto buzra canhivoz zinasa waufilem duituim tawas godva hepaaf evdag imi bo lobmi ajigla ruhomir vajeh gagwo."
+  },
+  "apiKey": "e45ed5ec5dba0747918b83afca7f62b086ed94ee623171aa154953ae816302fd",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
