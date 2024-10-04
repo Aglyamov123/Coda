@@ -1,0 +1,26 @@
+{
+  "name": "Brett Maxwell",
+  "age": 45,
+  "address": {
+    "street": "Gowlis Terrace",
+    "city": "Ekikapoh",
+    "state": "CO",
+    "zip": "38306"
+  },
+  "contact": {
+    "phone": "(455) 601-6013",
+    "servicePhone": "800778484"
+  },
+  "birthday": "1996-02-16T01:18:00.799Z",
+  "ip": "54.130.59.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Oc ij baw mitotat okuuta fe su mage dohtir gednebja vurgiz ubior emveg ustuvug gumu diaz uvovu. Pedortuh jov ok idodi zoifrim ov kud vamiozu jog pabso cewdenla na rol futoded hif komus valhe. Huhe zupbugo zerobi sigzo ukfo aba im id urrehzu vu idi hosa hor nog hazzo apujobma evuhubbi huz. Rukad aftic ovloglo ecarew me pezeoh as sabuz avamor jueniwir wegros peh rece wavsi. Jooniso okge zetzej toguwac wubov lajaig gosues dumterbi mulleki ki alnu digkezuku obku pin.",
+    "bio": "Pompag civehu ne hinru sef mapigki avotanew anu cigmi ul kimuj ekowofo pa. Pusgel urawse uzo vusmubzev eteesa ca judawco ridicnum hacwah gohvov sikguspu paavake didugipev ufi elve fe. Uwudek riwo juvucvug boten relvo pe jocopome mecossub keizo be mem hekogu."
+  },
+  "apiKey": "468217210102ffbae70baf4b421265c9aec44660717ce53ae1e9a638f5c9752a",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
