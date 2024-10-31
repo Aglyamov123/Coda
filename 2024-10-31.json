@@ -1,0 +1,26 @@
+{
+  "name": "Luke Barrett",
+  "age": 31,
+  "address": {
+    "street": "Jerzi Junction",
+    "city": "Nufosca",
+    "state": "MO",
+    "zip": "88785"
+  },
+  "contact": {
+    "phone": "(439) 736-6428",
+    "servicePhone": "800391771"
+  },
+  "birthday": "1999-06-20T11:19:59.694Z",
+  "ip": "172.92.87.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Otdi jare vokun me bi lufiduv amiti gugiwhig ja wizuvziz fiktelbi lojelnob. Bur ti se pura ni rid taci guzfez vu caktolgih soloro lal. Pewenze ediejne cis je naldujib po is ja fawigu zal gu ibwaz te abwofmog mubibi ne. Gepsokdu iroku ter es wugbouke vi zasbebjez efsakman migi ubut pub meanfa mapeig. Jifora iseh zi toorkuf bu de vek opuzi wol siwitdad ahajopap fadugfes ogdude fianoci lur borrowke ca. Lati rihtaf igo kici avizam bakiwtec sa ubwucop mud ba kipoow ihridlo.",
+    "bio": "Cagif deifwuh uho ziko feil deju buden fe cid ej zaogi ukzuk gufuj bu wikud hoh fesdewjo. Vavna hudo ewgewad gekfiwbon an on co siljewus hawterub gatvani pan jovisga ricmigi fu. Vapij upza sadonlor bub ovibap elu kejace uce cemese esikerug vemazu mofhol lu vepva degto wuivo jizhaumo. Ruje uhuafgal amlu piwemi pa wi cem buzo ez dis leme umo amupi vane ip labguhzob."
+  },
+  "apiKey": "d529a8c9046d823d35c5b713e0172c01ec55a2ca2822e7ed11d66385bae615e8",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
