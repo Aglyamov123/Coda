@@ -1,0 +1,26 @@
+{
+  "name": "Alan Reed",
+  "age": 42,
+  "address": {
+    "street": "Vittu Street",
+    "city": "Turkisi",
+    "state": "LA",
+    "zip": "10728"
+  },
+  "contact": {
+    "phone": "(449) 494-3617",
+    "servicePhone": "800745759"
+  },
+  "birthday": "1982-10-18T05:05:06.470Z",
+  "ip": "184.98.170.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Bojhi waha neom fut ugijacaj sizmehjuz nec bumesinu kofludon ful pesiw uka rewam zugica oc ogo mu epimu. Opale lah lalo elgupuz gova zetpavta fakkupko ra nouwe co fowbafcu toluddum fefdoej es. Ihi buwuep pa gapseuze wuhuce lerub kofuji ro bagso ta rab ceiscab oboep igoogrur ma. Tat fejmit na sohe kuruwer ciwmawaj lizlelot pibutek ama he bovfa lopihen. Jikez giggoko uwozog ufeze behri izgifzu pizdod wi ka ekione boraiz loti du ekonerker.",
+    "bio": "Zigafnu lir upmih awozal pidokib efdiese joz wuzwawo fabhal dudufu betiwwu oz ahhof rerum bupheged. Ved wihfomhel guvge ewho awifbek uvzif gib viavo zohav gueci ve nu mula. Pe jodok cikine no jimowuki newgergiz perpibfeg ifu walar wezjuki munfah gew lokzeir nehned ec wevees. Ocujaek susraag zohapin zidopbi vocgut pokges po uvasejlez locceore wuzja her rilew kufi lu reebafo ezajebe wutdulgo nelmu."
+  },
+  "apiKey": "090a97c9b92e7f875911875c0130998ec6f75b341a9e8e55daff9707f9912d38",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
