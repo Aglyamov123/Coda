@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Berry",
+  "age": 47,
+  "address": {
+    "street": "Gukzol Key",
+    "city": "Conufum",
+    "state": "ID",
+    "zip": "05107"
+  },
+  "contact": {
+    "phone": "(406) 622-7513",
+    "servicePhone": "800759841"
+  },
+  "birthday": "1985-12-17T01:47:25.649Z",
+  "ip": "126.98.183.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru umoraco ob wir beh zimaneju epemu zaca zun beva fid nu mizebaz gagem tumuranos. Ovka la okziuze parowed ine se dapa ci re hujuwizi rekirdu wipon aze tissuv awjezkah. Gabipcap sivuwuc acufawri tazaeja honolju mufo ho luz rov odewra ovotuza roujzut kujdim harap nezkuzamo.",
+    "bio": "Man dezdiruj itde ezakafi dasegju fevzime nibibuz zisavli ga wa gurde jelfa. Pu didba jim hioluzes mib pa ol sunete rowrego tu nozi jaz berbudboc tid. Kipem tulu mon rehuno petaz nejte itafodu howku je lil ludisece helo fa zucle nu hara. Vo pifoz god teap boku iluholpiw kockupifu pi ub wafwuzi ku guazri. Icaiji jotikiz wan omviwuf vejkem gauripuz era ra soru zuwmom jakutam juibe wef zu. Us kiw hom masnowo zagofic haivo sutapi urbiru eja odmac ehmispig gol fufgah pul haolazu noafeod go agules. Gaf uva velopa oserat ofefek zesa jogolcuc socojar tivuhig iv mutwo haapi jusu ema meb."
+  },
+  "apiKey": "3997ea520c8e08c00e96f3ef4fdeed51bd999c21809e1c18617491e9e1572ebf",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
