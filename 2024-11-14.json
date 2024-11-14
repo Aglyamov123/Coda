@@ -1,0 +1,26 @@
+{
+  "name": "Cora Jones",
+  "age": 34,
+  "address": {
+    "street": "Tosob Avenue",
+    "city": "Iwaawlu",
+    "state": "AK",
+    "zip": "04496"
+  },
+  "contact": {
+    "phone": "(440) 715-3180",
+    "servicePhone": "800875327"
+  },
+  "birthday": "1972-11-28T02:07:53.291Z",
+  "ip": "235.164.141.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Wihu fotaf wu janorizu fiuhzuw wehhiik mezumos nas biret ro gegrido abi. Duzizboz ojuaho tupvibu ehijavim puwsol mi bimugera vidudehe luevu umpot gazcaco mijjuk toevehi. Tejekdip ahe oride le gotegel ufzolpu wek sopihe ciswinla mi veabja vo zuzbujoke egu na kegma ipikli cowomso.",
+    "bio": "Lenmeifi jofo iddajvot jemaj jiwodip ufu luesvur puctotnim tedumgel zoced gufhuw afcik pe. Onuub co jobil bi su or pucafiome pebagmi bud tolir legigbiw loz wicu. Paoba bodishen sudze hiwo ibegaffic wobfewa bekos ba iheif viswil gekiji ko mu ew buwa iw wace. Zucez ulo celuviuzi po sep ecitno huvipabu cutifizo jopi mob ha zubdeuga dom guljej fiv kasjuv uzoilafuk cotep."
+  },
+  "apiKey": "57ab35eb23605d4e53d767732f5fd67d88a17d7905e33d890bde389dbacf4029",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
