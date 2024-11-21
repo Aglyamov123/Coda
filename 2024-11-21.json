@@ -1,0 +1,26 @@
+{
+  "name": "Carolyn Gonzalez",
+  "age": 19,
+  "address": {
+    "street": "Efihin Heights",
+    "city": "Fozika",
+    "state": "WI",
+    "zip": "74052"
+  },
+  "contact": {
+    "phone": "(789) 297-1716",
+    "servicePhone": "800376757"
+  },
+  "birthday": "2004-04-15T04:23:43.187Z",
+  "ip": "231.96.137.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez ovitod ez ivwewnip caz ib keene eg ja cizic figatmo nahelosu ciwicjik suoniko culez acukor. Nigallu ijo zutuetu fa gusapci bi wujtohwe vefap amnez bifegga beheij fifzukze va zeabavi ro elfirwe bufekdan. Ri pi zonfani bepaori fu reneuh sokel bom luej eju rihmezuro libfag jaboto. Mu rougde puiceca wub fobje so pu so dip pavipud gu kowudun onhekga.",
+    "bio": "Uzeseti takhiz joniz huj oz pozaji wecgudet cuwcaphil dik et hiwupab cusir. Sib rumwel irazewus bel kaca zoaha hahone fuwiji duhdanu jif avubipe vu wuimcu as so. Uva irdin cowub aceehwis kabokihu uh bunojvu kojuk hejigmo naziga cahodi avebog zenpe la."
+  },
+  "apiKey": "118879f4ca7c245c960001e9e82bcdd26220c2f2bac028b87bb9f6d0bb8fe793",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
