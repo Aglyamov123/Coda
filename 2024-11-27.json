@@ -1,0 +1,26 @@
+{
+  "name": "Ola Jefferson",
+  "age": 43,
+  "address": {
+    "street": "Puhin Turnpike",
+    "city": "Geomibag",
+    "state": "WV",
+    "zip": "07197"
+  },
+  "contact": {
+    "phone": "(601) 797-1619",
+    "servicePhone": "800545316"
+  },
+  "birthday": "1984-09-17T03:04:48.174Z",
+  "ip": "184.225.130.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Rurtuani wufnih la segileh bicu rircecuz ko vug ivro jivale fa vecah odcofbo za. Ipi zikjutid cu ruc le jugojul bo faik as de vul juntuzwoj. Wifci ci aj ce okevha dawo naubezo ebtucjeg nu jub rum juifno orwo cutisibes zihijuke alaletek te hij. Saf ra em ojulhi afzubu cun bew uno uke ne sorapon fu iptab ebapeh heca hor am. Azzamut bersiz jegzi oma iroajiwuw bovdihuc to bib fasfidfo fa asi gedalko horovdic noigaw ec newbeb neewinop monuc. Abcacem bejonuc rig tobahog tuatoreg rodinava weru bencupwo bocegu tinbi ruewrah vodop vucjuju uzineuh udewacek. Toflusub gu zodiwe ce avre mocaf raokuiru liluwog con jujruhoz wabkuvi icapetko.",
+    "bio": "Ruzrigah ubuesuwut vav muen vowtulu we govotde el ufesu cuavare ba sapbomo. Iv hakoru bac togi ara vige hov iwakiap hirapdu leore ohne kuztapdi. Vivoazi zeran mevmuro tusriro kizlezle dim zi radurwi ku pihev tuhpok kafsafgag veflipu hacotiw bafba obewa go. Apuucha si liitibit tuv ipiudhug tar awdakdob zikase gamce mun puwudhin nav ine. Sotisit ker bo sivtuv isu ebvijfa cobes jozu puralca oscewvew gaknegu ujlud bif cat wiidovi wi. Kod apbe we vetap na cekpale peheb lejikig zotij peve ametig omu wovet."
+  },
+  "apiKey": "117d792e25a0cc141c8ead8342e7e7c075c1ccfa8effcb717f12daef0b9aa857",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
