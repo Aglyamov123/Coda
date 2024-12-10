@@ -1,0 +1,26 @@
+{
+  "name": "Eric Lawrence",
+  "age": 28,
+  "address": {
+    "street": "Palke Center",
+    "city": "Wazeuru",
+    "state": "NC",
+    "zip": "06097"
+  },
+  "contact": {
+    "phone": "(429) 354-6608",
+    "servicePhone": "800338493"
+  },
+  "birthday": "1977-08-03T06:36:05.233Z",
+  "ip": "75.197.42.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Vousooju vimze revitzih vudigru ti dako sibtemuwi tijaliaca ja neviof iweku zelimgu useju regoet wahwume ipaokwaj gu. Siwutru co hahhiv kezso hefime ocamso te modezkos wibah kot zarugcu wi ifdot paw fim ema awoibi. Mi marofzod jizli takiza gur gu es rahnu lihuuje wi rohik domibde ac nasib ruhdicat ib sim.",
+    "bio": "Dauz ulatuwwu meki ok laghihi ujfoc udgupvu me ezbogfu ka zaruzu vubaru isjoj tamibew jorig eg zokore wekge. Bubwibik sa am cokuh usom wacar etavac til oc pu legu weze cal gos et kaz owu. Vo fozetfu pe upi belohkof alo zad ewenru dikcep huewitu jizfok law sacfiz."
+  },
+  "apiKey": "cdaf93f457be201f838c48a23739890720f31c27928dba031c2fc0b9b1aa7c29",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
