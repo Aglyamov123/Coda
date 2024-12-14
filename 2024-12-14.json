@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Wright",
+  "age": 54,
+  "address": {
+    "street": "Tuji Grove",
+    "city": "Sucseknal",
+    "state": "CA",
+    "zip": "10339"
+  },
+  "contact": {
+    "phone": "(245) 690-4794",
+    "servicePhone": "800233458"
+  },
+  "birthday": "1971-07-13T03:14:46.915Z",
+  "ip": "179.142.79.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Okbedo gakno ilkij detosmur mazegire buon petib ba kifap ima eh wafu rivokig. Dekaj himod sebatas govdoomu ka fi sevubbo ovnozi ir ka ez son kejki ba. Nuufujus og foheb kasgojdir mifwekpo lib usoeg vul gozhusu ohba tale docpozti dobab gi.",
+    "bio": "Pek si vefsi pogwoc wiskes pawvof we titibsel kiuvi lahkeb tuj piidel. Milzu jebzihij mesaraji ver wit gokog juluhna ripawi hic najowsi doz jokuho ra vewahuzim ito iku. Gal baezo heivi bunu muap runar kaihe cev fun miviz mijeh sukzilaf jik cinod wapiva fa jesirpow relehu. Donigzi zef idi ab hanew bulo nidib loum apu goz pefil uvebo oc ebu ino tiade. Waz eposoadu ca gueb kepoh wiwelpis upoha nej wuw fusazip idganbem rar buuvo sinme gineb."
+  },
+  "apiKey": "061ca65ea1200d90a8a29bc4060f6a2e5c68465295ba795280cfc58cf3c7f89e",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
