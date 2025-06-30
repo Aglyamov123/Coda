@@ -1,0 +1,25 @@
+{
+    "name": "Michael Garrett",
+    "age": 112,
+    "address": {
+        "street": "Johnson Crossing",
+        "city": "New Jenniferton",
+        "state": "Virginia",
+        "zip": "27570"
+    },
+    "contact": {
+        "phone": "+1-417-585-0126",
+        "servicePhone": "800924519"
+    },
+    "birthday": "1913-09-09",
+    "ip": "60.254.32.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural other a husband adult sometimes.\nThreat real collection citizen half themselves also. Interest kind TV image.",
+        "bio": "Off reduce popular student should remain population.\nGroup order thing. Carry nice between rock her among. Whatever sense Democrat identify matter skin expect."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
