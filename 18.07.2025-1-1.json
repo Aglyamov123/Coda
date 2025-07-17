@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Mayer",
+    "age": 12,
+    "address": {
+        "street": "Long Parks",
+        "city": "Weberton",
+        "state": "New Mexico",
+        "zip": "23605"
+    },
+    "contact": {
+        "phone": "001-856-206-4988x6857",
+        "servicePhone": "800015880"
+    },
+    "birthday": "2013-27-01",
+    "ip": "208.1.137.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Which film speech. None task these our peace. Movement herself story suddenly.\nEvery else though whose. Drive laugh body total mention brother. Key until reduce course.",
+        "bio": "Site speech beyond yourself station. Speak likely reason. Computer majority anyone growth that. More experience sing ask source."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
