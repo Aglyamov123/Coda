@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Russell",
+    "age": 111,
+    "address": {
+        "street": "Patterson Light",
+        "city": "West Johnside",
+        "state": "Wyoming",
+        "zip": "10235"
+    },
+    "contact": {
+        "phone": "001-980-276-9230x43140",
+        "servicePhone": "800022711"
+    },
+    "birthday": "1914-26-06",
+    "ip": "145.249.167.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Among director American once. Him course care professional significant. Apply tough blood network relate.",
+        "bio": "Almost suddenly like unit what go. Nature store describe dinner stay same.\nWay Mr add southern serve on. Church player commercial once design sometimes. Likely late travel through would."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
