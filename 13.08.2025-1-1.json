@@ -1,0 +1,25 @@
+{
+    "name": "Brett White",
+    "age": 7,
+    "address": {
+        "street": "Leonard Meadows",
+        "city": "West Joseph",
+        "state": "Texas",
+        "zip": "63518"
+    },
+    "contact": {
+        "phone": "(547)855-6528",
+        "servicePhone": "800330319"
+    },
+    "birthday": "2018-16-12",
+    "ip": "9.17.98.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody almost parent debate write. Perhaps for war four same.\nEffect process blue arrive lawyer. West new between receive industry car sort.",
+        "bio": "Almost concern especially interest out indeed as head. Quite security pattern large. Realize common interest million summer."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
