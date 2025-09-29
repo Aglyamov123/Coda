@@ -1,0 +1,25 @@
+{
+    "name": "Jill Leblanc",
+    "age": 26,
+    "address": {
+        "street": "Clay Stream",
+        "city": "Deborahfort",
+        "state": "Texas",
+        "zip": "01172"
+    },
+    "contact": {
+        "phone": "450-633-8908x54091",
+        "servicePhone": "800208792"
+    },
+    "birthday": "1999-03-01",
+    "ip": "147.12.165.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Could budget establish build. Process over off anything final foot. Such watch stand term else quality cause.",
+        "bio": "Attention group number daughter. Sound career figure beautiful. Perhaps run my school positive attorney.\nCare dinner quality will outside program scientist. Story life carry method office."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
