@@ -1,0 +1,25 @@
+{
+    "name": "Travis King",
+    "age": 87,
+    "address": {
+        "street": "Reynolds Motorway",
+        "city": "Baileyville",
+        "state": "Indiana",
+        "zip": "38531"
+    },
+    "contact": {
+        "phone": "(583)343-9403x7290",
+        "servicePhone": "800151405"
+    },
+    "birthday": "1938-18-10",
+    "ip": "11.191.249.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Three outside condition thing attack. Usually admit shoulder phone run and.\nOthers move support direction raise pull minute avoid. Nature recognize note major. Politics else reach music.",
+        "bio": "Difficult ready fire audience traditional size appear speak. Cover government thus cause reflect. Keep manager think. Daughter travel smile light reality husband trade."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
