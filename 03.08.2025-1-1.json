@@ -1,0 +1,25 @@
+{
+    "name": "Michaela Brown",
+    "age": 53,
+    "address": {
+        "street": "Charles Rest",
+        "city": "Lake Steven",
+        "state": "Washington",
+        "zip": "15627"
+    },
+    "contact": {
+        "phone": "7159471237",
+        "servicePhone": "800235113"
+    },
+    "birthday": "1972-19-07",
+    "ip": "16.93.134.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder want open site level. Police camera guy.\nGame out hundred hand fly. Total hope management smile assume collection.\nBring heart foot opportunity single dream research civil. Key be data owner.",
+        "bio": "Rule read name training. Interview night sure real total executive kind. Pressure argue deep hand partner full where.\nBuy man effort draw point. Other song action field level difficult."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
