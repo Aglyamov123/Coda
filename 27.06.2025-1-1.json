@@ -1,0 +1,25 @@
+{
+    "name": "Cassie Brown",
+    "age": 13,
+    "address": {
+        "street": "Jody Trail",
+        "city": "South Ricardo",
+        "state": "New Mexico",
+        "zip": "36313"
+    },
+    "contact": {
+        "phone": "+1-867-635-5701x39002",
+        "servicePhone": "800260816"
+    },
+    "birthday": "2012-31-08",
+    "ip": "125.0.235.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening say style face ability finally control. Find that sell mind. Senior suffer allow like everything music. Knowledge reflect at same particular agent mother agree.\nAbility life garden indeed.",
+        "bio": "Eight couple attack hold government. Action deep set say hotel decide. North fire improve task every.\nImprove bring meet most little computer nice. Group play hot."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
