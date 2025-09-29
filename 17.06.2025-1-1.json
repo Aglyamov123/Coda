@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Neal",
+    "age": 85,
+    "address": {
+        "street": "Norman Ramp",
+        "city": "East Dennisfort",
+        "state": "South Carolina",
+        "zip": "58327"
+    },
+    "contact": {
+        "phone": "(807)604-0611x902",
+        "servicePhone": "800477486"
+    },
+    "birthday": "1940-25-04",
+    "ip": "16.193.73.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss off blood mention time difficult. Reduce even investment drive. Human up fly beat same.\nScientist loss TV decade may. Sense usually behavior open.",
+        "bio": "Carry gun church administration.\nFather two east day north certain. Technology stage blood nature prove need begin. Only five generation boy inside try detail."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
