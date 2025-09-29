@@ -1,0 +1,25 @@
+{
+    "name": "Heather Watson",
+    "age": 23,
+    "address": {
+        "street": "Dana Row",
+        "city": "Curtisview",
+        "state": "Virginia",
+        "zip": "16769"
+    },
+    "contact": {
+        "phone": "(865)642-1885",
+        "servicePhone": "800190137"
+    },
+    "birthday": "2002-07-10",
+    "ip": "51.101.75.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark again artist this phone already door gun. Institution entire one yeah certain fish.\nAction buy great answer open executive. Present idea ground movement entire note size.",
+        "bio": "Still involve speech catch probably protect. Create lot director sport who. Onto outside thousand others trial million."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hobbs",
+    "age": 103,
+    "address": {
+        "street": "Jordan Well",
+        "city": "South Danielleville",
+        "state": "Idaho",
+        "zip": "90047"
+    },
+    "contact": {
+        "phone": "435.706.2484x4949",
+        "servicePhone": "800408266"
+    },
+    "birthday": "1922-09-05",
+    "ip": "177.248.44.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Might will color. Follow respond year positive feeling fact.\nBecause director alone debate among for place. Newspaper establish her clearly short. Recognize example minute.",
+        "bio": "Picture each tonight section everybody ten parent. Goal represent happy raise. Action side share."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

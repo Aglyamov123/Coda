@@ -1,0 +1,25 @@
+{
+    "name": "Robert Everett",
+    "age": 50,
+    "address": {
+        "street": "Glenn Avenue",
+        "city": "North Charlene",
+        "state": "South Carolina",
+        "zip": "97120"
+    },
+    "contact": {
+        "phone": "+1-710-471-2009x270",
+        "servicePhone": "800365069"
+    },
+    "birthday": "1975-16-12",
+    "ip": "11.118.61.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Training including concern reveal truth letter happen. Middle rest go trade difficult. Indicate effect wide weight learn.",
+        "bio": "Blood apply edge from. Glass how wait thing.\nWriter yard and different. Point detail rate professional summer certain management."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
