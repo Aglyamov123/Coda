@@ -1,0 +1,25 @@
+{
+    "name": "Justin Lam",
+    "age": 13,
+    "address": {
+        "street": "Green Mission",
+        "city": "Lake Daniel",
+        "state": "New York",
+        "zip": "89773"
+    },
+    "contact": {
+        "phone": "243.312.1138",
+        "servicePhone": "800661193"
+    },
+    "birthday": "2012-26-08",
+    "ip": "67.238.98.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Child others myself left mention. Board perhaps success improve simple.\nPopular consumer organization fast director. Could mouth learn mouth receive author mouth once. Person message continue allow.",
+        "bio": "Weight cover quality dream draw college. Three worry little best face debate next anything.\nDaughter place act price fire. Impact sit bar least real think. Newspaper seek pull less."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

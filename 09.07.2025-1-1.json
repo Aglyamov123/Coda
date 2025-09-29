@@ -1,0 +1,25 @@
+{
+    "name": "Travis Griffith",
+    "age": 79,
+    "address": {
+        "street": "Richard Knoll",
+        "city": "Wardberg",
+        "state": "Rhode Island",
+        "zip": "07644"
+    },
+    "contact": {
+        "phone": "001-978-464-5152x921",
+        "servicePhone": "800058211"
+    },
+    "birthday": "1946-21-04",
+    "ip": "31.68.162.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind deep notice strong.\nKeep statement may place carry. Defense option join. Within sound price.",
+        "bio": "Former eat enter sure single senior. Anyone later parent his character.\nGlass institution certain parent quickly prove five. Edge up nice dog wait present success."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
