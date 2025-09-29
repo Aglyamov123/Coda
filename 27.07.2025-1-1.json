@@ -1,0 +1,25 @@
+{
+    "name": "April Taylor",
+    "age": 77,
+    "address": {
+        "street": "Butler Burg",
+        "city": "North Christophermouth",
+        "state": "Kentucky",
+        "zip": "76252"
+    },
+    "contact": {
+        "phone": "980-345-7357",
+        "servicePhone": "800582818"
+    },
+    "birthday": "1948-12-02",
+    "ip": "179.204.34.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Add during situation rise final also. Why without dog democratic. Hold my strategy office why however.\nPressure summer perhaps lay. Term who clearly grow.",
+        "bio": "Of listen choose keep. Money never attention together month.\nCheck let country. Great situation state.\nAnother late section put factor fear. Job if hotel church part well garden."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

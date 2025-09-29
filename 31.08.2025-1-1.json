@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Osborne",
+    "age": 109,
+    "address": {
+        "street": "Wilson Islands",
+        "city": "Melissaside",
+        "state": "Alabama",
+        "zip": "42435"
+    },
+    "contact": {
+        "phone": "(404)295-0725x83068",
+        "servicePhone": "800915179"
+    },
+    "birthday": "1916-13-05",
+    "ip": "190.20.88.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort suddenly present week billion religious city. Woman plant pretty travel moment sign.\nWestern middle dark. Ball series respond indicate bad.",
+        "bio": "Much trouble believe share yourself before. Factor practice true open quality. Public hold yet enjoy. Financial add assume gas.\nAnyone most none challenge. Hope prove great rule."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
